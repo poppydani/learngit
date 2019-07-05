@@ -1,0 +1,19 @@
+{
+  "name": "learngit",
+  "version": "1.0.0",
+  "description": "https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poppydani/learngit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poppydani/learngit/issues"
+  },
+  "homepage": "https://github.com/poppydani/learngit#readme"
+}
