@@ -1,5 +1,7 @@
 #### git zsh下git别名
 
+https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/git
+
 ```
 g=git
 ga='git add'
